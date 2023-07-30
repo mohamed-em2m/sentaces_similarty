@@ -1,4 +1,5 @@
 # Quora Question Pairs Similarity using BERT
+![image](https://github.com/mohamed-em2m/sentaces_similarty/assets/126331291/4f21695e-33d9-4618-827d-4488ad90f437)
 
 This project analyzes the similarity of sentence pairs from the Quora Question Pairs dataset using BERT (Bidirectional Encoder Representations from Transformers) model.
 
